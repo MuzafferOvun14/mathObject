@@ -13,6 +13,7 @@ public class Main {
 		System.out.println(math.areaOfCircle(8.7));
 		System.out.println(math.factoriyel(5));
 		System.out.println(math.sumOfSmallNumbers(6));
+		System.out.println(math.sumOfBetweenNumber(3, 6));
 	}
 
 }
